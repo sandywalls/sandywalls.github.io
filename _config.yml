@@ -3,7 +3,7 @@
 lsi: false
 safe: true
 source: sandywalls.github.io
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 incremental: false
 highlighter: rouge
 gist:
